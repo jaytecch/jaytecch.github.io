@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jaytech.github.io/static/css/main.a3e1ec14.css",
+    "main.js": "/jaytech.github.io/static/js/main.e71114ad.js",
+    "static/js/787.0ba1abda.chunk.js": "/jaytech.github.io/static/js/787.0ba1abda.chunk.js",
+    "static/media/pexels-cottonbro-6069556.jpg": "/jaytech.github.io/static/media/pexels-cottonbro-6069556.da202999a4bc4e5561fe.jpg",
+    "static/media/lucky-elephants-club-logo.png": "/jaytech.github.io/static/media/lucky-elephants-club-logo.b7c7b7a035b739844203.png",
+    "static/media/Russo_One.ttf": "/jaytech.github.io/static/media/Russo_One.76b69dd52622fb1a6bf0.ttf",
+    "static/media/blank.png": "/jaytech.github.io/static/media/blank.6663017f880afd64169e.png",
+    "static/media/apparel.png": "/jaytech.github.io/static/media/apparel.62a587e3609dfcfd5a32.png",
+    "static/media/hat.png": "/jaytech.github.io/static/media/hat.620a096d5044b29216af.png",
+    "index.html": "/jaytech.github.io/index.html",
+    "main.a3e1ec14.css.map": "/jaytech.github.io/static/css/main.a3e1ec14.css.map",
+    "main.e71114ad.js.map": "/jaytech.github.io/static/js/main.e71114ad.js.map",
+    "787.0ba1abda.chunk.js.map": "/jaytech.github.io/static/js/787.0ba1abda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e1ec14.css",
+    "static/js/main.e71114ad.js"
+  ]
+}
